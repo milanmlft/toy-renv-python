@@ -3,6 +3,7 @@ title: 'Using Python'
 teaching: 10
 exercises: 2
 date: '`r Sys.Date()`'
+output: github_document
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
